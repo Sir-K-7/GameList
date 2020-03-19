@@ -1,0 +1,107 @@
+1 0 The Legend Of Zelda
+1 1 The Legend of Zelda 1986 NES
+1 2 Zelda II: The Adventure of Link 1987 NES
+1 3 A Link to the Past 1991 SNES
+1 4 Link's Awakening 1993 GB
+1 5 Ocarina of Time 1998 G64
+1 6 Link's Awakening DX 1998 GBC
+1 7 Majora's Mask 2000 G64
+1 8 Oracle of Seasons 2001 GBC
+1 9 Oracle of Ages 2001 GBC
+1 10 Four Swords(A Link to the Past) 2002 GBA
+1 11 The Wind Waker 2002 GC
+1 12 Four Sword Adventures 2004 GC
+1 13 The Minish Cap 2004 GBA
+1 14 Twilight Princess 2006 Wii
+1 15 Twilight Princess 2006 GC
+1 16 Phantom Hourglass 2007 DS
+1 17 Spirit Tracks 2008 DS
+1 18 Ocarina of Time 3D 2011 3DS
+1 19 Skyward Sword 2011 Wii
+1 20 The Wind Waker HD 2013 Wii U
+1 21 A Link Between Worlds 2013 3DS
+1 22 Majora's Mask 3D 2015 3DS
+1 23 Tri Force Heroes 2015 3DS
+1 24 Twilight Princess HD 2016 Wii U
+1 25 Breath of the Wild 2017 NS
+1 26 Link's Awakening 2019 NS
+2 0 Super Mario
+2 1 Super Mario Bros. 1985 NES
+2 2 Super Mario Bros. 2 1988 NES
+2 3 Super Mario Bros. 3 1988 NES
+2 4 Super Mario Land 1989 GB
+2 5 Super Mario World 1990 SNES
+2 6 Super Mario Land 2: 6 Golden Coins 1992 GB
+2 7 Super Mario All-Stars 1993 SNES
+2 8 Super Mario 64 1996 N64
+2 9 Super Mario Bros. Deluxe 1999 GBC
+2 10 Super Mario Advance 2001 GBA
+2 11 SMW: Super Mario Advance 2 2001 GBA
+2 12 Super Mario Sunshine 2002 GC
+2 13 SMA 4: Super Mario Bros 3 2003 GBA
+2 14 Super Mario 64 DS 2004 DS
+2 15 New Super Mario Bros. 2006 DS
+2 16 Super Mario Galaxy 2007 Wii
+2 17 New Super Mario Bros. Wii 2009 Wii
+2 18 Super Mario Galaxy 2 2010 Wii
+2 19 Super Mario 3D Land 2011 3DS
+2 20 New Super Mario Bros. 2 2012 3DS
+2 21 New Super Mario Bros. U 2012 Wii U
+2 22 New Super Luigi U 2013 Wii U
+2 23 Super Mario 3D World 2013 Wii U
+2 24 Super Mario Odyssey 2017 NS
+2 25 New Super Mario Bros. U Deluxe 2019 NS
+3 0 Pokémon
+3 1 Pokémon Red 1998 GB
+3 2 Pokémon Blue 1998 GB
+3 3 Pokémon Yellow 1998 GB
+3 4 Pokémon Gold 1999 GB
+3 5 Pokémon Silver 1999 GB
+3 6 Pokémon Crystal 2000 GB
+3 7 Pokémon Ruby 2002 GBA
+3 8 Pokémon Sapphire 2002 GBA
+3 9 Pokémon FireRed 2004 GBA
+3 10 Pokémon LeafGreen 2004 GBA
+3 11 Pokémon Emerald 2004 GBA
+3 12 Pokémon Diamond 2006 DS
+3 13 Pokémon Pearl 2006 DS
+3 14 Pokémon Platinum 2008 DS
+3 15 Pokémon HeartGold 2009 DS
+3 16 Pokémon SoulSilver 2009 DS
+3 17 Pokémon Black 2010 DS
+3 18 Pokémon White 2010 DS
+3 19 Pokémon Black 2 2012 DS
+3 20 Pokémon White 2 2012 DS
+3 21 Pokémon X 2013 3DS
+3 22 Pokémon Y 2013 3DS
+3 23 Pokémon Omega Ruby 2014 3DS
+3 24 Pokémon Alpha Sapphire 2014 3DS
+3 25 Pokémon Sun 2016 3DS
+3 26 Pokémon Moon 2016 3DS
+3 27 Pokémon Ultra Sun 2017 3DS
+3 28 Pokémon Ultra Moon 2017 3DS
+3 29 Pokémon Let's Go, Pikachu! 2018 NS
+3 30 Pokémon Let's Go, Eevee! 2018 NS
+3 31 Pokémon Sword 2019 NS
+3 32 Pokémon Shield 2019 NS
+4 0 Fire Emblem
+4 1 FE: Shadow Dragon & BoL 1990 FC
+4 2 FE: Gaiden 1992 FC
+4 3 FE: Mystery of the Emblem 1994 SFC
+4 4 FE: Genealogy of the Holy War 1996 SFC
+4 5 FE: Thracia 776 1999 SFC
+4 6 FE: The Binding Blade 2002 GBA
+4 7 FE: The Blazing Blade (FE) 2003 GBA
+4 8 FE: The Sacred Stones 2004 GBA
+4 9 FE: Path of Radiance 2005 GC
+4 10 FE: Radiant Dawn 2007 Wii
+4 11 FE: Shadow Dragon 2008 DS
+4 12 FE: New Mystery of the Emblem 2010 DS
+4 13 FE: Awakening 2012 3DS
+4 14 FE: Fates Birthright 2015 3DS
+4 15 FE: Fates Conquest 2015 3DS
+4 16 FE: Fates Revelation 2015 3DS
+4 17 FE: Echoes: Shadows of Valentia 2017 3DS
+4 18 FE: Three Houses 2019 NS
+
+

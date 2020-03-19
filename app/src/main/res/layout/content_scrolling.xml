@@ -9,7 +9,19 @@
     tools:showIn="@layout/activity_scrolling">
 
     <LinearLayout
+        android:id="@+id/layOut"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"></LinearLayout>
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="start|top"
+            android:hint="Paste a save here or copy the export here"
+            android:inputType="textMultiLine"
+            android:text="" />
+    </LinearLayout>
 </androidx.core.widget.NestedScrollView>
